@@ -1,10 +1,10 @@
-# Android device tree for qti S2 (trinket)
-
-```
 #
 # Copyright (C) 2025 The Android Open Source Project
 # Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-```
+
+add_lunch_combo omni_trinket-user
+add_lunch_combo omni_trinket-userdebug
+add_lunch_combo omni_trinket-eng
